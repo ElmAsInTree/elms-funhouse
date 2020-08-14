@@ -1,0 +1,9 @@
+{
+  "name": "name_here",
+  "version": "0.0.0",
+  "description": "barebones package.json",
+  "main": "main.js",
+  "author": {
+    "name": "Elm"
+  }
+}
